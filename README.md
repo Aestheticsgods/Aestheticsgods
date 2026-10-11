@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFB000&height=180&section=header&text=Houssam%20Hanzazi&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" alt="Houssam Hanzazi — Data Science and AI Engineering Student">
+<img src="https://raw.githubusercontent.com/Aestheticsgods/Aestheticsgods/main/assets/profile-banner.svg" width="100%" alt="Houssam Hanzazi — Data Science and AI Engineering Student">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=720&lines=Data+Science+%26+AI+Engineering+Student;Python+%C2%B7+Computer+Vision+%C2%B7+Data;Applied+AI+%C2%B7+Business+Intelligence+%C2%B7+Software" alt="Data Science and AI · Python · Computer Vision · Data">
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/hossam-hanzazi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFB000" alt="LinkedIn"></a>
+<a href="https://hanzazi-hossam-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio"></a>
 <a href="mailto:houssamhanzaziinfo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFB000" alt="Email"></a>
 <a href="https://github.com/Aestheticsgods?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=FFB000" alt="GitHub repositories"></a>
 <img src="https://img.shields.io/badge/Morocco-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FFB000" alt="Morocco">
