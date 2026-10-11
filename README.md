@@ -1,42 +1,57 @@
 # Houssam Hanzazi
 
 **Engineering student in Data Science, Big Data and Artificial Intelligence**  
-Morocco · Seeking a six-month end-of-study internship from January 2027
+Python · Computer Vision · Data Engineering · Business Intelligence
 
-I build software and data products, with hands-on experience spanning Python, computer vision, business intelligence and full-stack web development. My work focuses on turning a clear user or business need into a practical prototype, integrating its components and communicating the results.
+Salé, Morocco · Available for a six-month end-of-study internship from January 2027
 
-## Areas of interest
+## About me
 
-- Applied artificial intelligence, machine learning and computer vision
-- Data engineering, analytics and business intelligence
-- Python, REST APIs, backend development and database integration
-- Practical software design and end-to-end prototypes
+I build practical software and data products, from an early prototype through integration and evaluation. My experience combines Python development, computer vision, business intelligence and full-stack web applications.
 
-## Selected projects
+- At **ONEE**, I developed a facial-recognition access-control prototype, evaluated the model with an ROC curve and connected its AI, backend and database components.
+- At **ALEM**, I contributed to a Kimball-style data warehouse, SSIS data pipelines, a financial datamart and Power BI and SSRS reporting.
+- As a **freelance web developer**, I built client applications and integrated APIs, databases, authentication and deployment workflows.
 
-| Project | Overview | Stack |
-| --- | --- | --- |
-| [Rivoxa Agents](https://github.com/Aestheticsgods/ai-project) | Front-end concept for an AI agent workspace, with dashboard, agent catalogue, analytics and marketplace screens. | React, TypeScript, Vite, Tailwind CSS |
-| [Celebque](https://github.com/Aestheticsgods/celebque-akhirmakayn) | Creator-platform application with creator profiles, content discovery, subscriptions and account workflows. | Next.js, TypeScript, Prisma, MySQL, Stripe |
-| [PepuStars Captain Hub](https://github.com/Aestheticsgods/pepustars-captain-hub) | Trading-card game interface concept featuring captain cards, deck views and wallet connection setup. | React, TypeScript, Wagmi, RainbowKit, Zustand |
-| [Celebque web prototype](https://github.com/Aestheticsgods/celebque) | Responsive creator-platform interface exploring feeds, creator profiles, messaging and dashboards. | React, TypeScript, Vite, Tailwind CSS |
-| [PepuGame](https://github.com/Aestheticsgods/pepugame) | Earlier game-interface iteration with captain cards, deck and battlefield components. | React, TypeScript, Wagmi, Viem, Zustand |
+I am currently completing my engineering degree at ENSIASD and looking for a PFE where I can contribute to applied AI, data or software projects.
+
+## Featured projects
+
+### [Celebque — Creator Platform](https://github.com/Aestheticsgods/celebque-akhirmakayn)
+
+A full-stack application for creator profiles, content discovery, subscriptions and account workflows, built with server-side data and payment integrations.
+
+`Next.js` `TypeScript` `Prisma` `MySQL` `NextAuth` `Stripe`
+
+### [Rivoxa Agents](https://github.com/Aestheticsgods/ai-project)
+
+A front-end product concept for an AI agent workspace, with agent catalogue, analytics, marketplace and account screens. The repository contains the UI; agent execution services are not included.
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+### [PepuStars Captain Hub](https://github.com/Aestheticsgods/pepustars-captain-hub)
+
+A trading-card game interface concept with captain cards, deck views and a client-side game state store.
+
+`React` `TypeScript` `Wagmi` `RainbowKit` `Zustand`
+
+### [Celebque Web Prototype](https://github.com/Aestheticsgods/celebque)
+
+A responsive creator-platform interface exploring feeds, profiles, subscriptions, messaging and creator dashboards using sample client-side data.
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
 
 ## Technical toolkit
 
-**AI and data:** Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO, Pandas, NumPy, Spark, Hadoop, Kafka, Hive, Airflow  
-**Software:** TypeScript, JavaScript, Java, C/C++, PHP, Flask, REST APIs, Git  
-**Databases and BI:** SQL, MySQL, Oracle, SQL Server, Power BI, SSIS, SSRS, ETL, dimensional modelling  
-**Infrastructure:** Docker, VMware ESXi, Linux and Bash, networking fundamentals
+**AI and computer vision**  
+Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO, machine learning, deep learning, image processing
 
-## Experience
+**Data and BI**  
+Pandas, NumPy, SQL, Power BI, SSIS, SSRS, ETL, dimensional modelling, Spark, Hadoop, Kafka, Hive, Airflow
 
-- **AI and Computer Vision Intern, ONEE:** built a facial-recognition access-control prototype, evaluated it with an ROC curve, and integrated the AI, backend and database components.
-- **Business Intelligence Intern, ALEM:** contributed to a Kimball-style data warehouse, a financial datamart, SSIS pipelines and Power BI/SSRS reporting.
-- **Freelance Web Developer:** developed client web applications and integrated APIs, databases, authentication and deployment workflows.
+**Software and infrastructure**  
+TypeScript, JavaScript, Java, C/C++, PHP, Flask, REST APIs, Git, Docker, VMware ESXi, Bash
 
-## Education and contact
+## Contact
 
-Engineering degree in progress, ENSIASD, 2024–2027 · DUT in Computer Systems and Networks, 2022–2024
-
-[LinkedIn](https://linkedin.com/in/hossam-hanzazi) · [Email](mailto:houssamhanzaziinfo@gmail.com)
+[LinkedIn](https://linkedin.com/in/hossam-hanzazi) · [Email](mailto:houssamhanzaziinfo@gmail.com) · [GitHub repositories](https://github.com/Aestheticsgods?tab=repositories)
